@@ -49,8 +49,8 @@ Shihan Zhang
 
 ## Live Link
 
-https://massicottec.github.io/poke-feels-movie-edition/
+https://keegan-omel.github.io/Pokemon-Movie-Generator/
 
 ## GitHub Link
 
-https://github.com/massicottec/poke-feels-movie-edition
+https://github.com/Keegan-Omel/Pokemon-Movie-Generator
